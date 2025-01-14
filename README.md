@@ -1,4 +1,5 @@
-- Hi👋🏾, I’m @Harrison Malisawa
+Hi👋🏾, I’m @Harrison Malisawa
+
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C++
 - 📫 How to reach me harrythaprogrammer@gmail.com
