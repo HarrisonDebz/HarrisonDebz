@@ -1,10 +1,6 @@
-## 🔥 Harrison Malisawa
+## 🔥 Harrison Malisawa - ![](https://komarev.com/ghpvc/?username=HarrisonDebz&label=Profile+Views&color=green&style=flat)
 
 > *“Building, breaking, and securing digital spaces.”*
-
-<p align="center">
-<img src https://komarev.com/ghpvc/?username=HarrisonDebz&label=Profile+Views&color=brightgreen&style=flat>
-</p>
 
 👋🏾 Hey, I’m **Harrison Malisawa** – a Computer Science student with a growing obsession for **Cyber Security**, clean code, and anything that makes me say *“yo that’s actually smart.”*
 
