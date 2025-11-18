@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ Tech & Tools
-`C++` · `Python` · `JavaScript` · `Git/GitHub` · `Linux` · `VS Code` · `Burp Suite (learning)`
+`C++` · `Python` · `JavaScript` · `Git/GitHub` · `Linux` · `VS Code` · `.NET MAUI`
 
 ---
 
@@ -34,6 +34,9 @@
 ![Harrison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarrisonDebz&show_icons=true&hide_border=true&count_private=true&theme=merko)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonDebz&layout=compact&hide_border=true&theme=merko)
+
+Check out my portfolio website if you want to know more about my projects.
+https://github.com/HarrisonDebz/PortfolioWebsite
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=800&color=00F700&width=435&lines=Cyber+Security+Student;C%2B%2B+%7C+Python+Learner;Future+Pentester+%26+CTF+Player;Building+Cool+Projects)](https://git.io/typing-svg)
 <!---
