@@ -2,14 +2,14 @@
 
 > *“Building, breaking, and securing digital spaces.”*
 
-👋🏾 Hey, I’m **Harrison Malisawa** – a Computer Science student with a growing obsession for **Cyber Security**, clean code, and anything that makes me say *“yo that’s actually smart.”*
+👋🏾 Hey there, I’m **Harrison Malisawa** – a Computer Science student with a growing obsession for **Cyber Security**, clean code, and anything that makes me say *“yo that’s actually smart.”*
 
 ---
 
 ### 🧠 What I’m up to right now
 - 🛡️ Diving deep into **Cyber Security**
-- 🧵 Writing C++ like my grades depend on it (They do!)
-- 🐍 Taming Python for main language possibilities.
+- 🧵 Learning C++ like my grades depend on it (They do!)
+- 🐍 Traversing Python for main language possibilities.
 - 🏗️ Working on personal dev projects + learning best practices
 
 ---
@@ -22,7 +22,7 @@
 ### 🎯 Current Missions
 - Build my first proper **pentesting tool**
 - Participate in cybersecurity **CTFs and hackathons**
-- Become *that guy* people call when their system gets “mysteriously hacked” 👀
+- Become *that guy* people call when their system gets “mysteriously hacked” 👀😂
 
 ---
 
