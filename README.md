@@ -49,6 +49,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonDebz&layout=compact&hide_border=true&theme=radical)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarrisonDebz&theme=github-dark" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=800&color=00F700&width=435&lines=Computer+Science+Student;Cyber+Security+Enthusiast;Future+Pentester+%26+CTF+Player;Building+Projects+That+Matter)](https://git.io/typing-svg)
 <!---
