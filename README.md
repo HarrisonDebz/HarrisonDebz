@@ -9,25 +9,36 @@
 ### 🧠 What I’m up to right now
 - 🛡️ Diving deep into **Cyber Security**
 - 🧵 Learning C++ like my grades depend on it (They do!)
-- 🐍 Traversing Python for main language possibilities.
+- 🐍 Traversing C-Sharp(C#) for main language possibilities.
 - 🏗️ Working on personal dev projects + learning best practices
 
 ---
 
 ### ⚡ Tech & Tools
-`C++` · `Python` · `JavaScript` · `Git/GitHub` · `Linux` · `VS Code` · `.NET MAUI`
+`C#` · `C++` · `Python` · `JavaScript` · `HTML5` · `CSS` · `Git/GitHub` · `Linux` · `VS Code` · `.NET MAUI`
 
 ---
 
 ### 🎯 Current Missions
+- Build my first real, deployable, and usable project
 - Build my first proper **pentesting tool**
 - Participate in cybersecurity **CTFs and hackathons**
-- Become *that guy* people call when their system gets “mysteriously hacked” 👀😂
 
 ---
 
-### 📬 Reach Me
+### 📤 Outside Of Code And Tech
+- ♟ Playing a lot of Chess
+- 📝 Reading and Writing
+- 📺 Watching Anime
+- 🎮 Playings Videogames
+
+---
+
+### 📬 Reach Me, And Let's Connect!
 📩 Email: **harrythaprogrammer@gmail.com**
+
+🔗 LinkedIn: www.linkedin.com/in/harrison-malisawa
+
 🌐 Portfolio: https://github.com/HarrisonDebz/PortfolioWebsite
 
 ---
