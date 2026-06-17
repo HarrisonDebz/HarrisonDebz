@@ -35,7 +35,7 @@ https://github.com/HarrisonDebz/PortfolioWebsite
 
 ![Harrison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarrisonDebz&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?HarrisonDebz=DenverCoder1)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HarrisonDebz&theme=tokyonight&hide_border=true" height="150" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonDebz&layout=compact&hide_border=true&theme=radical)
 
